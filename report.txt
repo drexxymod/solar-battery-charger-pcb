@@ -1,0 +1,54 @@
+Info: Processing symbol 'BT1:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'D1:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal'.
+Info: Processing symbol 'C1:Capacitor_THT:CP_Radial_D6.3mm_P2.50mm'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Total warnings: 0, errors: 0.
+Changed BT1 value from PinHeader_1x02_P2.54mm_Vertical to Battery_Cell.
+Updated BT1 symbol association from  to /9cf5045d-45c6-4301-91f9-6f1c44181478.
+Updated BT1 fields.
+Updated BT1 sheetfile to 'smart-solar-battery-charger.kicad_sch'.
+Add net unconnected-(BT1-+-Pad1).
+Connected BT1 pin 1 to unconnected-(BT1-+-Pad1).
+Add net Net-(BT1--).
+Connected BT1 pin 2 to Net-(BT1--).
+Updated BT1 sheetname to '/'.
+Added C1 (footprint 'Capacitor_THT:CP_Radial_D6.3mm_P2.50mm').
+Changed REF** reference designator to C1.
+Changed C1 value from CP_Radial_D6.3mm_P2.50mm to C.
+Updated C1 symbol association from  to /c14f1ec8-0556-4d93-804e-4eeb4697ad73.
+Updated C1 fields.
+Updated C1 sheetname to '/'.
+Updated C1 footprint filters to 'C_*'.
+Add net Net-(D1-K).
+Connected C1 pin 1 to Net-(D1-K).
+Add net unconnected-(C1-Pad2).
+Connected C1 pin 2 to unconnected-(C1-Pad2).
+Updated C1 sheetfile to 'smart-solar-battery-charger.kicad_sch'.
+Added D1 (footprint 'Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal').
+Changed REF** reference designator to D1.
+Changed D1 value from D_DO-41_SOD81_P10.16mm_Horizontal to D.
+Updated D1 symbol association from  to /35284889-8978-4523-a137-0a7d58d2b701.
+Updated D1 fields.
+Updated D1 sheetname to '/'.
+Updated D1 sheetfile to 'smart-solar-battery-charger.kicad_sch'.
+Updated D1 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D1-A).
+Connected D1 pin 2 to Net-(D1-A).
+Connected D1 pin 1 to Net-(D1-K).
+Added BT1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to BT1.
+Changed REF** reference designator to J1.
+Changed J1 value from PinHeader_1x02_P2.54mm_Vertical to Conn_01x02_Pin.
+Updated J1 symbol association from  to /124292ad-b6b8-415c-bdde-f491baab2d9e.
+Updated J1 fields.
+Updated J1 sheetname to '/'.
+Added J1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Updated J1 footprint filters to 'Connector*:*_1x??_*'.
+Connected J1 pin 1 to Net-(D1-A).
+Connected J1 pin 2 to Net-(BT1--).
+
+
+Updated J1 sheetfile to 'smart-solar-battery-charger.kicad_sch'.
+
+
+Info: Total warnings: 0, errors: 0.
