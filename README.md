@@ -33,4 +33,5 @@ PCB Layout and 3D visualization created in KiCad.
 
 Author
 
-Richiee the Goat
+Hesbon O Machoka
+
