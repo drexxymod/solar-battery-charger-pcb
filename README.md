@@ -4,6 +4,17 @@ This project demonstrates the design of a simple solar battery charging circuit 
 
 Overview
 
+# Solar Battery Charger PCB
+
+## Circuit Schematic
+![Schematic](schematic.png)
+
+## PCB Layout
+![PCB Layout](pcb-layout.png)
+
+## 3D PCB View
+![3D PCB](pcb-3d-view.png)
+
 The circuit allows energy from a solar panel to charge a rechargeable battery while preventing reverse current flow using a protection diode.
 
 Components
